@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-orange">
+  <img alt="License: GPL-3.0" src="https://img.shields.io/badge/license-GPL--3.0-orange">
   <img alt="Game: Half-Life Deathmatch" src="https://img.shields.io/badge/game-Half--Life%20DM-red">
   <img alt="Platform: Windows x86" src="https://img.shields.io/badge/platform-Windows%20x86-blue">
   <img alt="Metamod-r plugin" src="https://img.shields.io/badge/Metamod--r-plugin-black">
@@ -89,5 +89,5 @@ See [TODO.md](TODO.md) for what's planned: pathfinding, bot chat, admin commands
 
 ## 📄 License
 
-MIT, see [LICENSE](LICENSE). The HLSDK and Metamod-r headers fetched into `include\` are not part of this repo and
+GPL-3.0, see [LICENSE](LICENSE). The HLSDK and Metamod-r headers fetched into `include\` are not part of this repo and
 are covered by their own licenses.
